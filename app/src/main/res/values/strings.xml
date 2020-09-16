@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Video Compression</string>
+    <string name="select_video">Select Video</string>
+    <string name="storage_permission_for_video">Please grant storage permission to access media</string>
+    <string name="permission">Permission</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="compress_video">Compress Video</string>
+    <string name="enter_the_video_bitrate">Enter the video bitrate</string>
+    <string name="enter_the_audio_bitrate">Enter the audio bitrate</string>
+    <string name="lets_compress">Video Compression 101. Let\'s start. </string>
+    <string name="compression_note">Note : Bitrate will be in kbit/s</string>
+    <string name="enter_frame_width">Enter frame width</string>
+    <string name="enter_frame_height">Enter frame height</string>
+    <string name="failed_to_compress_video">Failed to compress video</string>
+    <string name="please_enter_value_for_video_bitrate">Please enter value for video bitrate</string>
+    <string name="please_enter_value_for_audio_birate">Please enter value for audio bitrate</string>
+    <string name="please_enter_value_for_frame_width">Please enter value for frame width</string>
+    <string name="please_enter_value_for_frame_height">Please enter value for frame height</string>
+    <string name="compressing_wait">Compressing... please wait</string>
+    <string name="video_compression_success">Video compression Success!!</string>
+</resources>
